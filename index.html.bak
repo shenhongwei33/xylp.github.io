@@ -7,7 +7,11 @@
   <meta name="keywords" content="">
   <meta name="viewport"
         content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-  <title>Amaze UI Examples</title>
+
+  <title>小羊良品</title>
+
+
+
   <link rel="stylesheet" href="assets/css/amazeui.min.css">
   <link rel="stylesheet" href="assets/css/app.css">
 </head>
@@ -18,208 +22,62 @@
      
 
       <h1 class="amazeMarchHeadTitle am-header-title">
-      		<i class="am-icon-vimeo"></i>imeo
+
+      		<i class="am-icon-vimeo"></i>小羊良品日本代购
+
       
       </h1>
 
   </header>
 
-  <div class="newsList">
-  <div class="newsListBlock">
-  	<div class="newsListTitle">
-  		<div class="newsListTitleLeft">
-  			<div class="userHead">
-  				<img src="assets/img/user04.png" >
-  			</div>
-  			<div class="userName">Fireart Studio </div>
-  		</div>
-  		<div class="newsListTitleRight">
-  			<div class="newsListTitleRightMap">
-  				<i class="am-icon-map-o"></i> California
-  			</div>
-  		</div>
-  	</div>
+  
 
-  	<div class="newsListBanner">
-  		<div class="newsListBannerImg">
-  			<img src="assets/img/1.png">
-  		</div>
-  	</div>
 
-  	<div class="newsListText">
-  		This app gives you all the unique moments of exploring <span>- game before</span>
-  	</div>
 
   	<div class="newsListTextInfo">
   		<i class="am-icon-heart active"></i> <i class="am-icon-comment-o active"></i>
-  		
-  		<div class="newsListTextInfoNum">
-  			<span>+5K</span>
-  			comment this
-  		</div>
-  		<div class="newsListTextInfoNum">
-  			<span>+2K</span>
-  			like this
-  		</div>
-  	</div>
-  	</div>
-
   	 <div class="newsListBlock">
   	<div class="newsListTitle">
   		<div class="newsListTitleLeft">
-  			<div class="userHead">
-  				<img src="assets/img/user03.png" >
-  			</div>
-  			<div class="userName">Fireart Studio </div>
+  			<div class="userName">热销1 </div>
   		</div>
   		<div class="newsListTitleRight">
   			<div class="newsListTitleRightMap">
-  				<i class="am-icon-map-o"></i> California
+  				<i class="am-icon-map-o"></i> Japan
   			</div>
   		</div>
   	</div>
 
   	<div class="newsListBanner">
   		<div class="newsListBannerImg">
-  			<img src="assets/img/2.png">
+  			<img src="assets/img/1.jpg">
   		</div>
   	</div>
 
   	<div class="newsListText">
-  		This app gives you all the unique moments of exploring <span>- game before</span>
+  		<a href="https://item.taobao.com/item.htm?spm=a1z38n.10677092.0.0.11891debh8mmhR&id=564629163019">日本热卖2018新版限定版安热沙ANESSA小金瓶90ml安耐晒spf50/点击购买</a>
   	</div>
 
-  	<div class="newsListTextInfo">
-  		<i class="am-icon-heart"></i> <i class="am-icon-comment-o active"></i>
-  		
-  		<div class="newsListTextInfoNum">
-  			<span>+5K</span>
-  			comment this
-  		</div>
-  		<div class="newsListTextInfoNum">
-  			<span>+2K</span>
-  			like this
-  		</div>
-  	</div>
-  	</div>
+  
 
-  	 <div class="newsListBlock">
-  	<div class="newsListTitle">
-  		<div class="newsListTitleLeft">
-  			<div class="userHead">
-  				<img src="assets/img/user02.png" >
-  			</div>
-  			<div class="userName">Fireart Studio </div>
-  		</div>
-  		<div class="newsListTitleRight">
-  			<div class="newsListTitleRightMap">
-  				<i class="am-icon-map-o"></i> California
-  			</div>
-  		</div>
-  	</div>
 
-  	<div class="newsListBanner">
-  		<div class="newsListBannerImg">
-  			<img src="assets/img/3.png">
-  		</div>
-  	</div>
 
-  	<div class="newsListText">
-  		This app gives you all the unique moments of exploring <span>- game before</span>
-  	</div>
 
-  	<div class="newsListTextInfo">
-  		<i class="am-icon-heart"></i> <i class="am-icon-comment-o"></i>
-  		
-  		<div class="newsListTextInfoNum">
-  			<span>+5K</span>
-  			comment this
-  		</div>
-  		<div class="newsListTextInfoNum">
-  			<span>+2K</span>
-  			like this
-  		</div>
-  	</div>
-  	</div>
 
-  	 <div class="newsListBlock">
-  	<div class="newsListTitle">
-  		<div class="newsListTitleLeft">
-  			<div class="userHead">
-  				<img src="assets/img/user01.png" >
-  			</div>
-  			<div class="userName">Fireart Studio </div>
-  		</div>
-  		<div class="newsListTitleRight">
-  			<div class="newsListTitleRightMap">
-  				<i class="am-icon-map-o"></i> California
-  			</div>
-  		</div>
-  	</div>
 
-  	<div class="newsListBanner">
-  		<div class="newsListBannerImg">
-  			<img src="assets/img/4.png">
-  		</div>
-  	</div>
 
-  	<div class="newsListText">
-  		This app gives you all the unique moments of exploring <span>- game before</span>
-  	</div>
 
-  	<div class="newsListTextInfo">
-  		<i class="am-icon-heart active"></i> <i class="am-icon-comment-o active"></i>
-  		
-  		<div class="newsListTextInfoNum">
-  			<span>+5K</span>
-  			comment this
-  		</div>
-  		<div class="newsListTextInfoNum">
-  			<span>+2K</span>
-  			like this
-  		</div>
-  	</div>
-  	</div>
 
-  	 <div class="newsListBlock">
-  	<div class="newsListTitle">
-  		<div class="newsListTitleLeft">
-  			<div class="userHead">
-  				<img src="assets/img/user04.png" >
-  			</div>
-  			<div class="userName">Fireart Studio </div>
-  		</div>
-  		<div class="newsListTitleRight">
-  			<div class="newsListTitleRightMap">
-  				<i class="am-icon-map-o"></i> California
-  			</div>
-  		</div>
-  	</div>
 
-  	<div class="newsListBanner">
-  		<div class="newsListBannerImg">
-  			<img src="assets/img/1.png">
-  		</div>
-  	</div>
 
-  	<div class="newsListText">
-  		This app gives you all the unique moments of exploring <span>- game before</span>
-  	</div>
 
-  	<div class="newsListTextInfo">
-  		<i class="am-icon-heart active"></i> <i class="am-icon-comment-o active"></i>
-  		
-  		<div class="newsListTextInfoNum">
-  			<span>+5K</span>
-  			comment this
-  		</div>
-  		<div class="newsListTextInfoNum">
-  			<span>+2K</span>
-  			like this
-  		</div>
-  	</div>
-  	</div>
-  </div>
+
+
+
+
+
+
+
 
 </div>
 
