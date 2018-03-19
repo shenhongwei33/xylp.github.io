@@ -7,7 +7,7 @@
   <meta name="keywords" content="">
   <meta name="viewport"
         content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-  <title>小羊良品日本代购</title>
+  <title>Amaze UI Examples</title>
   <link rel="stylesheet" href="assets/css/amazeui.min.css">
   <link rel="stylesheet" href="assets/css/app.css">
 </head>
@@ -18,7 +18,7 @@
      
 
       <h1 class="amazeMarchHeadTitle am-header-title">
-      		<i class="am-icon-vimeo"></i>小羊良品
+      		<i class="am-icon-vimeo"></i>imeo
       
       </h1>
 
